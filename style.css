@@ -1,0 +1,224 @@
+{}
+.p1 {
+	color: rgb(0,0,0);
+	font-family: Times New Roman;
+	font-size: 150%;
+	font-style: italic;
+	text-align: center;
+}
+
+{}
+.p2 {
+	color: rgb(0,0,0);
+	font-family: trebuchet ms;
+	font-size: 200%;
+	font-style: oblique;
+	text-align: center;
+}
+
+{}
+.p3 {
+	color: rgb(0,0,0);
+	font-family: courier new;
+	font-size: 60%;
+	font-style: italic;
+	text-align: right;
+	text-decoration: none;
+}
+
+{}
+.p4 {
+	color: rgb(0,0,0);
+	font-family: impact,fantasy ;
+	font-size: 300%;
+	font-style: italic;
+	text-align: center;
+}
+.p5 {
+	color: rgb(0,0,0);
+	font-family: impact,fantasy ;
+	font-size: 140%;
+	font-style: italic;
+	text-align: center;
+}
+
+
+
+
+{}
+.h1  {
+	color: rgb(255,238,240);
+	font-family: none;
+	font-size: 150%;
+	font-style: oblique;
+}
+
+{}
+.h2 { 
+	color: maroon; 
+	font-family: Georgia, serif;
+	font-size: 330% ;
+	font-style: oblique;
+}
+
+{}
+.h3 {
+	color: rgb(210, 105, 30); 
+	font-family: courier;
+	font-size: 120% ;
+	font-style: normal;
+	text-decoration: underline solid rgb(68, 68, 68);
+}
+
+
+
+
+{}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+  text-shadow: 2px 2px black;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  text-shadow: 2px 2px black;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  text-shadow: 2px 2px black;
+}
+
+{}
+button {
+ 		 background-color: #f44336;
+ 		 color: black;
+ 		 padding: 5px 25px;
+  		text-align: center;
+ 		 text-decoration: none;
+  		display: inline-block;
+		}
+
+button{
+ 		 background-color: red;
+		}
+
+
+
+
+
+
+
+
+
+
+{}
+.img1 {	
+ height: 440px;  
+ width: 400px;  
+}
+
+.img2 {
+	height: 300px ;
+	width: 600px ;
+	border: 5px solid chocolate ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{}
+#tshirt {
+	float: right ;
+}
+
+{}
+#short {
+	float: left;
+	text-align: left;
+}
+
+
+ {}
+.tshirt {
+	
+	color: rgb(210,0,0);
+	font-family: impact,fantasy ;
+	font-size: 170%;
+	font-style: italic;
+	text-align: right;
+}
+
+{}
+.p33 {
+	color: rgb(0,0,0);
+	font-family: courier new;
+	font-size: 60%%;
+	font-style: italic;
+	text-align: right;
+	text-decoration: underline;
+	text-shadow: 2px 2px chocolate;
+}
+
+{}
+.p44 {
+	color: rgb(0,0,0);
+	font-family: courier new;
+	font-size: 60%%;
+	font-style: italic;
+	text-align: right;
+	text-decoration: underline;
+	text-shadow: 2px 2px chocolate;
+}
+
+{}
+.p55 {
+	color: rgb(0,0,0);
+	font-family: impact,fantasy ;
+	font-size: 300%;
+	font-style: italic;
+	text-align: center;
+	text-shadow: 2px 2px white;
+}
+
+{}
+
+.h22{ 
+	background-color: midnightblue;
+	color: cyan; 
+	font-family: Georgia, serif;
+	font-size: 330% ;
+	font-style: oblique;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
